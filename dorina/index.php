@@ -48,7 +48,7 @@
                             </a>
                             <h3>Sign In</h3>
                         </div>
-                        <form method='POST' action='validate.php'> 
+                        <form method='POST' action='car.php'> 
                         <div class="form-floating mb-3">
                             <input type="text" class="form-control" name="username" placeholder="name@example.com">
                             <label for="floatingInput">Email address</label>
